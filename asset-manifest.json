@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.f6871d96.css",
+    "main.js": "/memory-card/static/js/main.6f2dd782.js",
+    "static/media/genei-ryudan.jpg": "/memory-card/static/media/genei-ryudan.cfe26e19b673cf345ce1.jpg",
+    "static/media/Chrollo_Lucilfer.webp": "/memory-card/static/media/Chrollo_Lucilfer.a00e45d8b4f32ba6e590.webp",
+    "static/media/Machi_Komacine.webp": "/memory-card/static/media/Machi_Komacine.5e23cc13868085be2e34.webp",
+    "static/media/Shizuku_Murasaki.webp": "/memory-card/static/media/Shizuku_Murasaki.c1e4abe6b1cb80d6b468.webp",
+    "static/media/Nobunaga_Hazama.webp": "/memory-card/static/media/Nobunaga_Hazama.481d1a99d24770b5fd28.webp",
+    "static/media/Phinks_Magcub.webp": "/memory-card/static/media/Phinks_Magcub.dde8f496fbbe6ab43a1c.webp",
+    "static/media/Franklin_Bordeau.webp": "/memory-card/static/media/Franklin_Bordeau.714a40a65ac4f68c61ab.webp",
+    "static/media/Feitan_Portor.webp": "/memory-card/static/media/Feitan_Portor.3f4bfb081115507289eb.webp",
+    "static/media/Illumi_Zoldyck.webp": "/memory-card/static/media/Illumi_Zoldyck.156ea9c7f6307c9fee16.webp",
+    "static/media/Bonolenov_Ndongo.webp": "/memory-card/static/media/Bonolenov_Ndongo.912feb9e2cfd86293522.webp",
+    "static/media/Kalluto_Zoldyck.webp": "/memory-card/static/media/Kalluto_Zoldyck.c58fd6194dafbe0017e4.webp",
+    "index.html": "/memory-card/index.html",
+    "main.f6871d96.css.map": "/memory-card/static/css/main.f6871d96.css.map",
+    "main.6f2dd782.js.map": "/memory-card/static/js/main.6f2dd782.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6871d96.css",
+    "static/js/main.6f2dd782.js"
+  ]
+}
